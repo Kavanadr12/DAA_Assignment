@@ -49,7 +49,9 @@ Although both algorithms have the same complexity, recursion introduces addition
 
 Example output produced for input sizes from 1 to 29 with step 2.
 
-![Output](/factorial/output.png)
+![Output](/factorial/outputiterative.png)
+
+![Output](/factorial/outputrecursive.png)
 ---
 
 ## Graph
