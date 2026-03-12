@@ -49,14 +49,14 @@ Although both algorithms have the same complexity, recursion introduces addition
 
 Example output produced for input sizes from 1 to 29 with step 2.
 
-![Output](factorial/output.png)
+![Output](/factorial/output.png)
 ---
 
 ## Graph
 
 Factorial Running Time Graph
 
-![Factorial Graph](factorial/graph.png)
+![Factorial Graph](/factorial/graph.png)
 
 ---
 
